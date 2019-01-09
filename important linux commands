@@ -1,0 +1,22 @@
+important linux commands
+
+ls-list
+cd-change directory
+mv filname.blah /new_folder/ - move a file to a place
+cp filename.blah /new_folder/ - copy a file to a place
+mkdir directoryname - make a 
+pwd - where am i?
+open . - opens where you are
+
+git clone ____(link) - copies stuff down from the internet/github
+
+git status - checks
+
+git add (space) . - add everything in the folder i'm in that is untracked
+
+git add . - add everything in the folder i'm in that is untracked
+
+git commit - am 'some comment' - comment telling it what this version 
+is. updates our local git version control (tracking new files but not committed yet until this)
+
+git push origin master

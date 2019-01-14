@@ -1,5 +1,7 @@
 function setup() {
+	setInterval(draw,frameRate);
 createCanvas(500,500, WEBGL);
+framRate(30);
 	
 
 }

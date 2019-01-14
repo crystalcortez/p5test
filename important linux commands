@@ -19,4 +19,7 @@ git add . - add everything in the folder i'm in that is untracked
 git commit - am 'some comment' - comment telling it what this version 
 is. updates our local git version control (tracking new files but not committed yet until this)
 
+**before making local changes:
+git pull origin gh-pages
+
 git push origin master
